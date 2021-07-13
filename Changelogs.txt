@@ -1,0 +1,35 @@
+!Changelogs for : EngageOs Gaming reborn 12.5 
+> Added New MIUI 13 file manager ( saxy )
+> Added New MIUI 12.5 launcher 
+> Added New Super wallapapers 
+> Added New OP Boot animation 
+> Added New cool Boot logo 
+> Added Tweeks for more ram ( 3.9 GB free idle )
+> Added GPU boost Configs 
+> Added wakelockes more bb ( no power drain sof )
+> Added GPU boost Configs ( less throttle )
+> Added New power menu 
+> added New volune pannel 
+> Improved app animation 
+> Super debloated :) 
+> Updated security app 
+> Updated System ui app ( super smooth ui )
+> Removed some extra wallpapers 
+
+
+!Notes 
+> This is MI8 Stable port 
+> Can use any recovery 
+> This is made for gaming dont expect more bb 
+> Brightness is little low ( not majour issue )
+> In built DFE But still flash dfe ( no risk )
+
+!Flashing Process 
+> Wipe ( Dalvik , cAche , system , vendor , data  )
+> Flash Rom 
+> flash DFE 
+> flash Magisk ( if u need )
+> reboot 
+
+Thanks :) 
+Keep Supporting :)
