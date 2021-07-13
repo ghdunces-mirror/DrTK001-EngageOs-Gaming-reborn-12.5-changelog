@@ -23,6 +23,9 @@
 > This is made for gaming dont expect more bb 
 > Brightness is little low ( not majour issue )
 > In built DFE But still flash dfe ( no risk )
+> D8G 3.6 Plus is recomended kerner 
+> 100 % Bugless ( thanks to my testers ) 
+
 
 !Flashing Process 
 > Wipe ( Dalvik , cAche , system , vendor , data  )
@@ -33,3 +36,13 @@
 
 Thanks :) 
 Keep Supporting :)
+
+Thanks to ;
+> Ashit ( for supporting )
+> DT ( for Helping me to put security in rom )
+> Customex ( For Making awesome review )
+> Smokie Gaming And Nayan ( best testers )
+> Ragnar ( helped me to port )
+> Baba Nirala ( my motivation )
+> Hamidullah sani ( For supporting )
+
