@@ -86,7 +86,10 @@
 
 - Hamidullah sani ( For supporting )
 
-<footer>
-  Thank you for you support.. </br>
-  keep supporting :) 
+
+
+<footer> </br>
+</br>
+ <b/> Thank you for you support..😍 </br>
+  keep supporting :)❣️ </b>
   </footer>
