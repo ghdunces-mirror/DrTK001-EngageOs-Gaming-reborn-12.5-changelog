@@ -66,9 +66,9 @@
 - [XM V3 thermal](https://t.me/EngageOs/9450) Recommend thermal
 
 
-<div> Thanks :)
 
-Keep Supporting :) </div>
+
+
 
 ## Credits
 
@@ -86,3 +86,7 @@ Keep Supporting :) </div>
 
 - Hamidullah sani ( For supporting )
 
+<footer>
+  Thank you for you support.. </br>
+  keep supporting :) 
+  </footer>
