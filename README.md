@@ -49,7 +49,7 @@
 
 ## Flashing Process 
 ```
-> Wipe ( Dalvik , cAche , system , vendor , data  )
+> Wipe ( Dalvik , Cache , system , vendor , data  )
 
 > Flash Rom 
 
