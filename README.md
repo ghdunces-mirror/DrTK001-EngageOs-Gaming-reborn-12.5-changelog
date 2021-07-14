@@ -69,7 +69,7 @@ Keep Supporting :)
 
 > [Dt](https://t.me/DTisOP) for Helping me to put security in rom .
 
->[ Customex ]((https://t.me/RahulGorai)  For Making awesome review .
+>[ Customex ](https://t.me/RahulGorai)  For Making awesome review .
 
 > Smokie Gaming And Nayan ( best testers )
 
