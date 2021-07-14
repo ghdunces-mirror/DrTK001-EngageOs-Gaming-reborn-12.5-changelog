@@ -73,9 +73,9 @@
 
 > Smokie Gaming And Nayan ( best testers )
 
-> Ragnar ( helped me to port )
+>[ Ragnar](https://t.me/X_RAGNAR) ( helped me to port )
 
-> [Baba Nirala](https://t.me/jaaat4u) ( my motivation )
+
 
 > Hamidullah sani ( For supporting )
 
