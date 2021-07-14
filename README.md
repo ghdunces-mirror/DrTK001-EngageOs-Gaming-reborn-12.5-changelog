@@ -60,6 +60,7 @@
 > reboot 
 
 > Recomended [kernel](https://github.com/diphons/D8G_Kernel/releases/download/3.6/D8G_Kernel_v3.6-Plus-AIO.zip)
+
 ```
 <p> Thanks :) </p>
 
