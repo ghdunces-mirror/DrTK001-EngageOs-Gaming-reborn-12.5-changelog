@@ -58,14 +58,10 @@
 > flash Magisk ( if u need )
 
 > reboot 
-
-<<<<<<< HEAD
-> Recomended [kernel](https://github.com/diphons/D8G_Kernel/releases/download/3.6/D8G_Kernel_v3.6-Plus-AIO.zip)
-
-=======
-> Rcoomended kernel [D8G3.6plus](https://github.com/diphons/D8G_Kernel/releases/download/3.6/D8G_Kernel_v3.6-Plus-AIO.zip)
->>>>>>> e545d2d9008af6a34118333c1c556480a0737c2f
 ```
+
+
+
 ## Addons
 
 - [ Dual status bar](https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjYyNDgwNzAiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6IjE3NzRiNjJkMzM2MTkxYTdkMGFkM2MwMmIyYjc0YjM5YzgwZWMxNDUwMGEzZTQ3ZDQ0ODIxZDc4NzYzZjc4ZTVjYzBkOTkzMmIwYWQ0NWMzYzM1ODU3MTRjMDViZWQwNDU5NmI5ZmFiOThhMGU1MWE1NjEyOTY3NmU4MDRlNjhkIiwidCI6MTYyNjI1MTM4Nywic3RmcCI6ImQ4ODQxZDhjN2I3OTZjMTI0OGJkNjEwNmUwMTZkNjZjIiwic3RpcCI6IjEwMy4yMTEuMTMuMTU4In0.hPKdoH2qS2AeiGTkoC1CrIJ5lNx4PeC6wfztNorKwqU/Poco%20f1%2012.5.1%20(magisk)%20@dualstatusbar.zip)
