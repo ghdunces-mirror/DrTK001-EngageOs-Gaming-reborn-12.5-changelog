@@ -65,17 +65,17 @@
 
 ## Credits
 
-> [Ashit](https://t.me/Ashit10)  for [Dual status bar](https://t.me/DualstatusbarDSB) & supporting.
+- [Ashit](https://t.me/Ashit10)  for [Dual status bar](https://t.me/DualstatusbarDSB) & supporting.
 
-> [Dt](https://t.me/DTisOP) for Helping me to put security in rom .
+- [Dt](https://t.me/DTisOP) for Helping me to put security in rom .
 
->[ Customex ](https://t.me/RahulGorai)  For Making awesome review .
+- [ Customex ](https://t.me/RahulGorai)  For Making awesome review .
 
-> Smokie Gaming And Nayan ( best testers )
+- Smokie Gaming And Nayan ( best testers )
 
->[ Ragnar](https://t.me/X_RAGNAR) ( helped me to port )
+- [ Ragnar](https://t.me/X_RAGNAR) ( helped me to port )
 
 
 
-> Hamidullah sani ( For supporting )
+- Hamidullah sani ( For supporting )
 
