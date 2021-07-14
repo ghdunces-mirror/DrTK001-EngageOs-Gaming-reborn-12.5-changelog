@@ -49,7 +49,7 @@
 
 ## Flashing Process 
 ```
-> Wipe ( Dalvik , cAche , system , vendor , data  )
+> Wipe ( Dalvik , Cache , system , vendor , data  )
 
 > Flash Rom 
 
@@ -69,7 +69,7 @@
 - [D8g kernel 3.6+](https://github.com/diphons/D8G_Kernel/releases/download/3.6/D8G_Kernel_v3.6-Plus-AIO.zip) Recommend kernel
 - [XM V3 thermal](https://t.me/EngageOs/9450) Recommend thermal
 
-
+- [Disable force encryption (DFE) ](https://t.me/EngageOs/9456)
 
 
 
