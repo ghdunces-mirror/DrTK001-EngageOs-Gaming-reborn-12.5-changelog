@@ -10,7 +10,7 @@
 <a href="https://t.me/EngageOs"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" width="200"></a>
 
 # Changelog of EngageOs GAming reborn 12.5
-!Changelogs for : EngageOs Gaming reborn 12.5 
+```
 
 > Added New MIUI 13 file manager ( saxy )
 
@@ -43,28 +43,11 @@
 > Updated System ui app ( super smooth ui )
 
 > Removed some extra wallpapers 
+```
 
-!Notes 
 
-> This is MI8 Stable port 
 
-> Can use any recovery 
-
-> This is made for gaming dont expect more bb 
-
-> Brightness is little low ( not majour issue )
-
-> In built DFE But still flash dfe ( no risk )
-
-> D8G 3.6 Plus is recomended kernel
-
-> 100 % Bugless ( thanks to my testers ) 
-
-> Purchase and use rom , i have insert security ( if didnt 
-
-  registered serial number and flashed rom = Bricked )
-
-!Flashing Process 
+## Flashing Process 
 
 > Wipe ( Dalvik , cAche , system , vendor , data  )
 
@@ -80,19 +63,19 @@ Thanks :)
 
 Keep Supporting :)
 
-Thanks to ;
+## Credits
 
-> Ashit ( for supporting )
+> [Ashit](https://t.me/Ashit10)  for [Dual status bar](https://t.me/DualstatusbarDSB) & supporting.
 
-> DT ( for Helping me to put security in rom )
+> [Dt](https://t.me/DTisOP) for Helping me to put security in rom .
 
-> Customex ( For Making awesome review )
+>[ Customex ]((https://t.me/RahulGorai)  For Making awesome review .
 
 > Smokie Gaming And Nayan ( best testers )
 
 > Ragnar ( helped me to port )
 
-> Baba Nirala ( my motivation )
+> [Baba Nirala](https://t.me/jaaat4u) ( my motivation )
 
 > Hamidullah sani ( For supporting )
 
