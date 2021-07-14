@@ -48,7 +48,7 @@
 
 
 ## Flashing Process 
-
+```
 > Wipe ( Dalvik , cAche , system , vendor , data  )
 
 > Flash Rom 
@@ -58,10 +58,10 @@
 > flash Magisk ( if u need )
 
 > reboot 
+``
+<h3> Thanks :) </h3>
 
-Thanks :) 
-
-Keep Supporting :)
+<h3> Keep Supporting :) </h3>
 
 ## Credits
 
