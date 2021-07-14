@@ -5,9 +5,9 @@
 # Support 🚑
 
 
-<a href="https://t.me/EngageOs2"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" width="200"></a>
+<a href="https://t.me/EngageOs2"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" width="450"></a>
 
-<a href="https://t.me/EngageOs"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" width="200"></a>
+<a href="https://t.me/EngageOs"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" width="450"></a>
 
 # Changelog of EngageOs GAming reborn 12.5
 ```
@@ -59,9 +59,9 @@
 
 > reboot 
 ```
-<h3> Thanks :) </h3>
+<p> Thanks :) </p>
 
-<h3> Keep Supporting :) </h3>
+<p> Keep Supporting :) </p>
 
 ## Credits
 
