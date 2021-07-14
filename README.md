@@ -78,13 +78,13 @@
 
 - [ Customex ](https://t.me/RahulGorai)  For Making awesome review .
 
-- [Smokie Gaming](https://t.me/Vaibhav1005) And [Nayan](https://t.me/Nayan2626442000 best testers .
+- [Smokie Gaming](https://t.me/Vaibhav1005) And [Nayan](https://t.me/Nayan2626442000) best testers .
 
 - [ Ragnar](https://t.me/X_RAGNAR)  helped me to port .
 
 
 
-- [Hamidullah sani(https://t.me/HAMIDULLAH0011)( For supporting )
+- [Hamidullah sani](https://t.me/HAMIDULLAH0011)( For supporting )
 
 
 
