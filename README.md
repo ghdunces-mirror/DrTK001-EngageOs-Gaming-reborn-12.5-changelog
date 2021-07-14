@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://t.me/EngageOs"><img src="https://telegra.ph/file/f372fd1b9620d7fa93037.jpg" width="5000"></a></p> 
 
-# Support 🚑
+# Support
 
 
 <a href="https://t.me/EngageOs2"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" width="450"></a>
@@ -58,6 +58,8 @@
 > flash Magisk ( if u need )
 
 > reboot 
+
+> Rcoomended kernel [D8G3.6plus](https://github.com/diphons/D8G_Kernel/releases/download/3.6/D8G_Kernel_v3.6-Plus-AIO.zip)
 ```
 <p> Thanks :) </p>
 
