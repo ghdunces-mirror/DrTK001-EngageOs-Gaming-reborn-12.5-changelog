@@ -9,7 +9,7 @@
 
 <a href="https://t.me/EngageOs"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" width="450"></a>
 
-# Changelog of EngageOs GAming reborn 12.5
+# Changelog of EngageOs Gaming reborn 12.5
 ```
 
 > Added New MIUI 13 file manager ( saxy )
