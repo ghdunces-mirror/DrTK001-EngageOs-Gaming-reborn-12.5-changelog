@@ -5,9 +5,9 @@
 # Support 🚑
 
 
-<a href="https://t.me/EngageOs2"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" width="450"></a>
+<a href="https://t.me/EngageOs2"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" width="300px"></a>
 
-<a href="https://t.me/EngageOs"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" width="450"></a>
+<a href="https://t.me/EngageOs"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" width="300px"></a>
 
 # Changelog of EngageOs Gaming reborn 12.5
 ```
@@ -84,7 +84,7 @@
 
 
 
-- [Hamidullah sani](https://t.me/HAMIDULLAH0011)( For supporting )
+- [Hamidullah sani](https://t.me/HAMIDULLAH0011) For supporting 
 
 
 
