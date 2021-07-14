@@ -5,9 +5,9 @@
 # Support
 
 
-<a href="https://t.me/EngageOs2"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" width="450"></a>
+<a href="https://t.me/EngageOs2"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" width="300px"></a>
 
-<a href="https://t.me/EngageOs"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" width="450"></a>
+<a href="https://t.me/EngageOs"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" width="300px"></a>
 
 # Changelog of EngageOs Gaming reborn 12.5
 ```
@@ -66,9 +66,16 @@
 > Rcoomended kernel [D8G3.6plus](https://github.com/diphons/D8G_Kernel/releases/download/3.6/D8G_Kernel_v3.6-Plus-AIO.zip)
 >>>>>>> e545d2d9008af6a34118333c1c556480a0737c2f
 ```
-<p> Thanks :) </p>
+## Addons
 
-<p> Keep Supporting :) </p>
+- [ Dual status bar](https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjYyNDgwNzAiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6IjE3NzRiNjJkMzM2MTkxYTdkMGFkM2MwMmIyYjc0YjM5YzgwZWMxNDUwMGEzZTQ3ZDQ0ODIxZDc4NzYzZjc4ZTVjYzBkOTkzMmIwYWQ0NWMzYzM1ODU3MTRjMDViZWQwNDU5NmI5ZmFiOThhMGU1MWE1NjEyOTY3NmU4MDRlNjhkIiwidCI6MTYyNjI1MTM4Nywic3RmcCI6ImQ4ODQxZDhjN2I3OTZjMTI0OGJkNjEwNmUwMTZkNjZjIiwic3RpcCI6IjEwMy4yMTEuMTMuMTU4In0.hPKdoH2qS2AeiGTkoC1CrIJ5lNx4PeC6wfztNorKwqU/Poco%20f1%2012.5.1%20(magisk)%20@dualstatusbar.zip)
+- [D8g kernel 3.6+](https://github.com/diphons/D8G_Kernel/releases/download/3.6/D8G_Kernel_v3.6-Plus-AIO.zip) Recommend kernel
+- [XM V3 thermal](https://t.me/EngageOs/9450) Recommend thermal
+
+
+
+
+
 
 ## Credits
 
@@ -78,11 +85,18 @@
 
 - [ Customex ](https://t.me/RahulGorai)  For Making awesome review .
 
-- Smokie Gaming And Nayan ( best testers )
+- [Smokie Gaming](https://t.me/Vaibhav1005) And [Nayan](https://t.me/Nayan2626442000) best testers .
 
-- [ Ragnar](https://t.me/X_RAGNAR) ( helped me to port )
+- [ Ragnar](https://t.me/X_RAGNAR)  helped me to port .
 
 
 
-- Hamidullah sani ( For supporting )
+- [Hamidullah sani](https://t.me/HAMIDULLAH0011) For supporting 
 
+
+
+<footer> </br>
+</br>
+ <b/> Thank you for you support..😍 </br>
+  keep supporting :)❣️ </b>
+  </footer>
