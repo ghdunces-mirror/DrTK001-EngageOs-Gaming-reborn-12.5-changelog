@@ -58,7 +58,7 @@
 > flash Magisk ( if u need )
 
 > reboot 
-``
+```
 <h3> Thanks :) </h3>
 
 <h3> Keep Supporting :) </h3>
