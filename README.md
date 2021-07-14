@@ -62,11 +62,13 @@
 ## Addons
 
 - [ Dual status bar](https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjYyNDgwNzAiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6IjE3NzRiNjJkMzM2MTkxYTdkMGFkM2MwMmIyYjc0YjM5YzgwZWMxNDUwMGEzZTQ3ZDQ0ODIxZDc4NzYzZjc4ZTVjYzBkOTkzMmIwYWQ0NWMzYzM1ODU3MTRjMDViZWQwNDU5NmI5ZmFiOThhMGU1MWE1NjEyOTY3NmU4MDRlNjhkIiwidCI6MTYyNjI1MTM4Nywic3RmcCI6ImQ4ODQxZDhjN2I3OTZjMTI0OGJkNjEwNmUwMTZkNjZjIiwic3RpcCI6IjEwMy4yMTEuMTMuMTU4In0.hPKdoH2qS2AeiGTkoC1CrIJ5lNx4PeC6wfztNorKwqU/Poco%20f1%2012.5.1%20(magisk)%20@dualstatusbar.zip)
-- [D8g kernel 3.6+](https://github.com/diphons/D8G_Kernel/releases/download/3.6/D8G_Kernel_v3.6-Plus-AIO.zip) (Recommend kernel)
-- [XM V3 thermal](https://t.me/EngageOs/9450)
-<p> Thanks :) </p>
+- [D8g kernel 3.6+](https://github.com/diphons/D8G_Kernel/releases/download/3.6/D8G_Kernel_v3.6-Plus-AIO.zip) Recommend kernel
+- [XM V3 thermal](https://t.me/EngageOs/9450) Recommend thermal
 
-<p> Keep Supporting :) </p>
+
+<div> Thanks :)
+
+Keep Supporting :) </div>
 
 ## Credits
 
