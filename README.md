@@ -24,11 +24,9 @@
 
 > Added Tweeks for more ram ( 3.9 GB free idle )
 
-> Added GPU boost Configs 
+> Added GPU Tweeks
 
-> Added wakelockes more bb ( no power drain sof )
-
-> Added GPU boost Configs ( less throttle )
+> Added CPU boost Configs ( less throttle )
 
 > Added New power menu 
 
